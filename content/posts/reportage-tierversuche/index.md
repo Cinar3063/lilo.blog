@@ -1,7 +1,7 @@
 +++
 title = "Reportage Tierversuche"
 date = "2024-06-11"
-draft = false
+draft = true
 pinned = false
 +++
 ## Tierversuche in der Kritik
